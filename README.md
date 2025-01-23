@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome to Dina Adel's GitHub Profile 👋
 
-<!--
-**dinaa3/dinaa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi! I'm Dina Adel, a 4th-year Software Engineering student at the German International University (GIU). I specialize in DevOps and AWS and am a certified AWS Cloud Practitioner.
 
-Here are some ideas to get you started:
+## My GitHub Stats
+![Dina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinaa3&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinaa3&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects. Let's connect and collaborate! 🚀
+
