@@ -5,7 +5,7 @@ Hi! I'm Dina Adel, a 4th-year Software Engineering student at the German Interna
 
 ## My GitHub Stats
 ![Dina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinaa3&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinaa3&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassa122&layout=compact&theme=radical)
 
 ---
 
