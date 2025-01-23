@@ -12,8 +12,8 @@
 
 
 ## Connect With Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/dina-adel](https://linkedin.com/in/dina-adel)
+- 📧 Email: [dinadel31@gmail.com](dinadel31@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/dina-adel](https://www.linkedin.com/in/dina-adel-a11251286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
