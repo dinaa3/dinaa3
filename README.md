@@ -5,6 +5,8 @@
 ## My GitHub Stats
 ![Dina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinaa3&show_icons=true&theme=rose_pine)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassa122&layout=compact&theme=rose_pine)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dinaa3&theme=rose_pine&hide_border=true)
+
 
 View my AWS certification: [CloudPractitioner](https://www.credly.com/badges/923f71c0-3960-4dff-a199-62bceb7d16bd/public_url)
 
