@@ -1,14 +1,12 @@
 # Hi! I'm Dina Adel 👋
 
-### A 4th-year Software Engineering student at the German International University (GIU). I specialize in DevOps and AWS and am a certified AWS Cloud Practitioner.
-
-- 🔧 Skilled in setting up and managing cloud infrastructure using AWS.
-- 🚀 Passionate about automating workflows and optimizing system performance.
-- 📚 Currently exploring advanced DevOps practices and cloud-native technologies.
+### A 4th-year Software Engineering student at the German International University (GIU). Passionate about fullstack development and DevOps.
 
 ## My GitHub Stats
 ![Dina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinaa3&show_icons=true&theme=rose_pine)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassa122&layout=compact&theme=rose_pine)
+
+View my AWS certification: [CloudPractitioner](https://www.credly.com/badges/923f71c0-3960-4dff-a199-62bceb7d16bd/public_url)
 
 
 ## Connect With Me
@@ -18,5 +16,5 @@
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects. Let's connect and collaborate! 🚀
+
 
