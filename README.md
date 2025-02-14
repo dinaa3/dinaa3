@@ -14,7 +14,7 @@ View my AWS certification: [CloudPractitioner](https://www.credly.com/badges/923
 ## Connect With Me
 - 📧 Email: [dinadel31@gmail.com](dinadel31@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/dina-adel](https://www.linkedin.com/in/dina-adel-a11251286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 🌐 Portfolio: [dinasportfolioapp.vercel.app](https://dinasportfolioapp.vercel.app)
+
 
 ---
 
