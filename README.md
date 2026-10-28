@@ -44,7 +44,7 @@ My background is full-stack: I've built products end to end, from frontend inter
 ## GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yassa122&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dinaa3&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassa122&layout=compact&theme=rose_pine&hide_border=true" alt="Top languages"/>
 </p>
 
