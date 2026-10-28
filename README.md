@@ -31,15 +31,6 @@ My background is full-stack: I've built products end to end, from frontend inter
 | **Full-stack product** | React / Next.js, Angular, Vue · Node.js / NestJS, Spring Boot, Laravel |
 | **AI & serverless** | Intelligent applications and cloud-native orchestration |
 
-## Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,php&theme=dark" alt="Languages"/><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind&theme=dark" alt="Frontend"/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,laravel&theme=dark" alt="Backend"/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,kafka&theme=dark" alt="Data"/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,terraform,docker,githubactions,gitlab&theme=dark" alt="Cloud & DevOps"/>
-</p>
 
 ## GitHub stats
 
