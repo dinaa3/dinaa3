@@ -7,8 +7,6 @@
 
 📍 Cairo, Egypt | 💻 Building Scalable Digital Products
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://dina-portfolio.vercel.app/)
-
 I'm a passionate **Software Engineer** with experience in **Full-Stack Development, Cloud Engineering, DevOps, and Distributed Systems**.
 
 Currently working as a **Cloud & DevOps Engineer at Deloitte**, contributing to enterprise applications, cloud-native platforms, infrastructure automation, and software delivery across AWS and Azure.
